@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "1044707735399",
+    "firebase_url": "https://athena-fe238.firebaseio.com",
+    "project_id": "athena-fe238",
+    "storage_bucket": "athena-fe238.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1044707735399:android:764d2cb7da3280eb",
+        "android_client_info": {
+          "package_name": "io.ionic.starter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1044707735399-qakkhoc9l48k7adl7ork18blkvcvdnfc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBDdXkEwkBcIVqcFYC5V2kN4LErcg_O0E4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

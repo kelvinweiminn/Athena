@@ -1,0 +1,20 @@
+<ion-header>
+  <ion-navbar>
+    <button ion-button menuToggle>
+      <ion-icon name="menu"></ion-icon>
+    </button>
+    <ion-title>Home</ion-title>
+  </ion-navbar>
+</ion-header>
+
+<ion-content padding>
+  <ion-item *ngIf="employee">
+    <h3>{{employee.name}}</h3>
+    <p>Helmet properly worn? </p>
+
+    <em *ngIf="employee.status == '0'">No</em>
+    <em *ngIf="employee.status == '1'">Yes</em>
+  
+  </ion-item>
+
+</ion-content>
